@@ -1,3 +1,2 @@
 # Xylophone
-This is my project for Module 13 [iOS & Swift - The Complete iOS App Development Bootcamp].
-
+Learn to Code While Building Apps - The Complete iOS Development Bootcamp
